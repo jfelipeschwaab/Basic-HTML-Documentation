@@ -1,0 +1,20 @@
+/* Basic table styling */
+table {
+    width: 100%; /* Full width */
+    border-collapse: collapse; /* Collapse borders */
+    font-family: Arial, sans-serif; /* Font style */
+}
+
+th, td {
+    border: 1px solid black; /* Black border for cells */
+    padding: 8px; /* Padding inside cells */
+    text-align: left; /* Left align text */
+}
+
+thead {
+    background-color: #f2f2f2; /* Light grey background for headers */
+}
+
+h1 {
+    text-align: center;
+}
